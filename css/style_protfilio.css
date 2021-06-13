@@ -1,3 +1,7 @@
+html{
+    font-size: 62.5%;
+}
+
 *{
     margin: 0%;
     padding: 0%;
@@ -6,22 +10,22 @@
 .nav>li>a {
     position: relative;
     display: block;
-    padding: 14px 15px;
-    margin-left: 28px;
+    padding: 1.4rem 1.5rem;
+    margin-left: 2.8rem;
 }
 .navbar-inverse .navbar-nav>li>a {
     color: rgb(248, 245, 245);
-    font-size: 19px;
+    font-size: 1.9rem;
 }
 .navbar-inverse .navbar-brand {
     color: #f5f5f5;
 }
 .navbar-brand {
     float: left;
-    height: 50px;
-    padding: 15px 15px;
-    font-size: 34px;
-    line-height: 23px;
+    height: 5.0rem;
+    padding: 1.5rem 1.5rem;
+    font-size: 3.4rem;
+    line-height: 2.3rem;
 }
 .active{
     background-color: black;
@@ -46,65 +50,65 @@
 }
 .icon{
     vertical-align: middle;
-    margin: 0px 21px;
+    margin: 0rem 2.1rem;
 }
 .navbar {
     
-    min-height: 50px;
-    margin-bottom: 0px;
-    border: 1px solid transparent;
+    min-height: 5.0rem;
+    margin-bottom: 0rem;
+    border: 0.1rem solid transparent;
 }
 .heading{
     color: white;
-    margin: 20px 0px 31px;
+    margin: 2.0rem 0rem 3.1rem;
 }
 .text-big {
-    font-size: 65px;
+    font-size: 6.5rem;
     font-family: serif;
-    margin-left: 46px;
-    margin-top: 95px;
+    margin-left: 4.6rem;
+    margin-top: 9.5rem;
 }
 .text-small {
-    font-size: 27px;
-    margin-left: 46px;
+    font-size: 2.7rem;
+    margin-left: 4.6rem;
 }
 .second{
     display: flex;
     flex-direction: row;
-    /* margin-top: 51px; */
+    /* margin-top: 51rem; */
 }
 .burger{
     display:none;
     position: absolute;
     cursor: pointer;
     right: 5%;
-    top: 15px;
+    top: 1.5rem;
     
 }
 .img{
     border-radius: 100%;
-    margin-left: 300px;
-    border: 2px solid rgba(255, 255, 255, 0.739);
-    padding: 5px;
+    margin-left: 30.0rem;
+    border: .2rem solid rgba(255, 255, 255, 0.739);
+    padding: .5rem;
     
 }
 .secsection{
     text-align: center;
-    margin: 28px 0px;
+    margin: 2.8rem 0rem;
 }
 
 .text-big1 {
-    text-shadow: 2px 0px 0px #777;
-    font-size: 44px;
+    text-shadow: .2rem 0rem 0rem #777;
+    font-size: 4.4rem;
     font-family: math;
     font-weight: bold;
-    margin-top: 14px;
-    padding-top: 74px;
+    margin-top: 1.4rem;
+    padding-top: 7.4rem;
 }
 .introduction{
-    font-size: 23px;
+    font-size: 2.3rem;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    margin-top: 20px;
+    margin-top: 2.0rem;
     color: rgb(0, 0, 0);
 }
 
@@ -112,23 +116,23 @@
     background: url(https://cdn.hipwallpaper.com/i/50/58/r6fpwA.jpg), #d8d8d8;
 }
 .container {
-    /* padding: 32px 0px;
-    margin: 4px 0px;
+    /* padding: 32rem 0rem;
+    margin: 4rem 0rem;
     display: grid;
     /* flex-direction: row; */
     /* grid-auto-flow: column;
-    grid-column-gap: 93px;
-    margin-top: 3px;
-    padding-bottom: 154px; */ 
+    grid-column-gap: 93rem;
+    margin-top: 3rem;
+    padding-bottom: 154rem; */ 
     display: flex;
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    padding: 0px 0px;
-    padding-bottom: 115px
+    padding: 0rem 0rem;
+    padding-bottom: 11.5rem
 }
 .block2{
-    margin: 0px 55px;
+    margin: 0rem 5.5rem;
     background-color: #777;
 }
 .intro{
@@ -136,33 +140,33 @@
 }
 
 .block {
-    padding: 8px 75px;
-    font-size: 18px;
+    padding: 0.8rem 7.5rem;
+    font-size: 1.8rem;
 }
 
 .interest {
-    border: 2px solid black ;
-    padding: 2px;
+    border: .2rem solid black ;
+    padding: .2rem;
     background-color: gainsboro;
     color: #000;
-    box-shadow: 2px 2px 2px darkslateblue;
+    box-shadow: .2rem .2rem .2rem darkslateblue;
 }
 .tech-interests{
     color: #eee;
     background: rgba(0, 0, 0, 0.7) url('https://tse4.mm.bing.net/th?id=OIP.Rivx9MbMVK4bDfjcX4-tCQHaDS&pid=Api&P=0&w=386&h=172');
 }
 .list{
-    font-size: 31px;
-    text-shadow: 1px 0px 0px #a94442
+    font-size: 3.1rem;
+    text-shadow: .1rem 0rem 0rem #a94442
 }
 li{
-    font-size: 18px;
+    font-size: 1.8rem;
     font-family: cursive;
 }
 
 .learning {
     /* box-sizing: content-box; */
-    border: 2px solid;
+    border: .2rem solid;
     color: black;
     box-sizing: border-box;
     width: 40%;
@@ -170,13 +174,13 @@ li{
     /* text-align: center; */
     /* justify-content: center; */
     text-align: center;
-    border-radius: 6px;
-    margin-top: 47px;
-    margin-bottom: 17px;
+    border-radius: .6rem;
+    margin-top: 4.7rem;
+    margin-bottom: 1.7rem;
     background: linear-gradient(
 150deg
 , #918c8c94 10%, #1d141d11 100%, #ca63ca2f 100%);
-    backdrop-filter: blur(30px);
+    backdrop-filter: blur(3.0rem);
     margin-inline: auto;
 }
 ul{
@@ -184,83 +188,83 @@ ul{
 }
 .stuff {
 
-    /* width: 20px; */
+    /* width: 20rem; */
     /* margin: 16%; */
-    padding: 25px;
+    padding: 2.5rem;
     text-align: center;
-    /* box-shadow: 6px 6px 6px; */
+    /* box-shadow: 6rem 6rem 6rem; */
 }
 .profile{
-    margin-top: 80px;
+    margin-top: 8.0rem;
 }
 .paras{
-    margin: 0px;
+    margin: 0rem;
 }
 .form {
     text-align: center;
     margin: 0%;
     background-color: #333;
     color: white;
-    padding: 42px 0px;
+    padding: 4.2rem 0rem;
     
 }
 .form-group{
-    padding: 0px 119px;
-    margin: 25px 0px;
-    font-size: 20px;
+    padding: 0rem 11.9rem;
+    margin: 2.5rem 0rem;
+    font-size: 2.0rem;
 }
 .form-control {
     display: block;
     width: 100%;
-    height: 34px;
-    padding: 25px 12px;
-    font-size: 20px;
+    height: 3.4rem;
+    padding: 2.5rem 1.2rem;
+    font-size: 2.0rem;
     line-height: 1.42857143;
     color: #eee;
     background-color: #555;
     background-image: none;
-    border: 1px solid lightblue;
-    border-radius: 4px;
-    -webkit-box-shadow: inset 1px 1px 1px rgb(88 25 212 / 8%);
-    box-shadow: inset 1px 1px 1px #8d8888;
+    border: .1rem solid lightblue;
+    border-radius: .4rem;
+    -webkit-box-shadow: inset .1rem .1rem .1rem rgb(88 25 212 / 8%);
+    box-shadow: inset .1rem .1rem .1rem #8d8888;
     
     -o-transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
     -webkit-transition: border-color ease-in-out .15s,-webkit-box-shadow ease-in-out .15s;
     transition: border-color ease-in-out .15s,-webkit-box-shadow ease-in-out .15s;
     transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
     transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s,-webkit-box-shadow ease-in-out .15s;
-    border: 2px solid lightblue blue;
+    border: .2rem solid lightblue blue;
 }
 label {
     display: inline-block;
     max-width: 100%;
-    margin-bottom: 5px;
+    margin-bottom: .5rem;
     font-weight: 500;
-    font-size: 25px;
+    font-size: 2.5rem;
 }
 
 .contact{
-    margin: 83px 0px;
+    margin: 8.3rem 0rem;
 }
 .form{
 margin: 0%;
 }
 .secsection {
     text-align: center;
-    margin: 28px 0px;
+    margin: 2.8rem 0rem;
     background-image: url();
     background-size: cover;
     background-color: #d0dfec4d;;
     margin: 0%;
     height: 100%;
-    box-shadow: inset 0px 1px 0px 0px rgb(0 0 0 / 5%), inset 0px 2px 3px 0px 
+    box-shadow: inset 0rem .1rem 0rem 0rem rgb(0 0 0 / 5%), inset 0rem .2rem .3rem 0rem 
 }
 
 h1 {
-    font-size: 36px;
+    font-size: 3.6rem;
     font-family: cursive;
-    word-spacing: 11px;
-    letter-spacing: 1px;
+    word-spacing: 1.1rem;
+    letter-spacing: .1rem;
 }
 .btn1 {
     display: inline-block;
@@ -273,11 +277,11 @@ h1 {
     touch-action: manipulation;
     cursor: pointer;
     background-image: none;
-    border: 1px solid #286090;
-    padding: 9px 26px;
-    font-size: 22px;
+    border: .1rem solid #286090;
+    padding: .9rem 2.6rem;
+    font-size: 2.2rem;
     line-height: 1.42857143;
-    border-radius: 4px;
+    border-radius: .4rem;
     -webkit-user-select: none;
     -moz-user-select: none;
     -ms-user-select: none;
@@ -290,43 +294,43 @@ h1 {
     background-color: #181717;
 }
 hr {
-    margin-top: 20px;
-    margin-bottom: 20px;
+    margin-top: 2.0rem;
+    margin-bottom: 2.0rem;
     border: 0;
-    border-top: 1px solid #555;
+    border-top: .1rem solid #555;
 }
 .email{
     margin: 0%;
     padding: 0%;
-    margin-top: 12px;
+    margin-top: 1.2rem;
     color: #999;
 }
 .fas{
     color: blanchedalmond;
-    border:2px solid #286090;
-    padding: 9px;
+    border:.2rem solid #286090;
+    padding: .9rem;
     border-radius: 50%;
-    font-size: 20px;
+    font-size: 2.0rem;
 }
 .mail{
     
-    font-size: 18px;
+    font-size: 1.8rem;
 }
 .fa,.fas{
     color: white;
 }
 .address{
-    margin-top: 76px;
+    margin-top: 7.6rem;
 }
 .add{
-    font-size: 18px;
+    font-size: 1.8rem;
 }
 .address-text{
     color: #999;
 }
 .stuff1 {
     /* box-sizing: content-box; */
-    border: 2px solid;
+    border: .2rem solid;
     color: black;
     box-sizing: border-box;
     width: 30%;
@@ -334,25 +338,25 @@ hr {
     /* text-align: center; */
     /* justify-content: center; */
     text-align: center;
-    border-radius: 6px;
-    margin-top: 47px;
-    margin-bottom: 147px;
+    border-radius: .6rem;
+    margin-top: 4.7rem;
+    margin-bottom: 14.7rem;
     background: linear-gradient(
 150deg
 , #4d504e94 10%, #1d141d11 100%, #ca63ca2f 100%);
-    backdrop-filter: blur(30px);
+    backdrop-filter: blur(3.0rem);
     margin-inline: auto;
-    padding: 35px 67px;
+    padding: 3.5rem 6.7rem;
     text-align: center;
     border-radius: 50%;
-    box-shadow: 8px 8px 6px grey;
+    box-shadow: .8rem .8rem .6rem grey;
 }
 
 .learn :hover{
     transform: scale3d(1.1,1.1,1.1);
     /* transition-delay: 2s; */
     transition-duration: 1s;
-    border-radius: 6px;
+    border-radius: .6rem;
     /* box-shadow: none; */
 }
 
@@ -365,8 +369,8 @@ hr {
 }
 
 .cultural {
-    padding: 10px 0px;
-    font-size: 21px;
+    padding: 1..0rem 0rem;
+    font-size: 2.1rem;
     
 }
 .grid{
@@ -376,29 +380,29 @@ hr {
     align-items: center;
 }
 .achieve{
-    padding-top: 54px;
-    letter-spacing: 2px;
+    padding-top: 5.4rem;
+    letter-spacing: .2rem;
 }
 
 .container-fluid{
     margin-left: 0%;
 }
 .navbar-header{
-    padding-left: 27px;
+    padding-left: 2.7rem;
 }
 .burger{
     display:none;
     position: absolute;
 
     right: 5%;
-    top: 15px;
+    top: 1..5rem;
     
 }
 .line{
-    width: 33px;
+    width: 3.3rem;
     background-color: white;
-    height: 4px;
-    margin: 4px 4px;   
+    height: .4rem;
+    margin: .4rem .4rem;   
 }
 
 .contain :hover{
@@ -410,7 +414,10 @@ hr {
 }
 
 
-@media only screen and (max-width: 1142px){
+@media only screen and (max-width: 998px){
+    html{
+          font-size: 55%;
+    }
     *{
         margin: 0%;
         padding: 0%;
@@ -426,7 +433,7 @@ hr {
         height: auto;
         padding-top: 0;
         margin-top: 0%;
-        /* margin-top: 51px; */
+        /* margin-top: 51rem; */
     }
     .text-big{
         text-align: center;
@@ -436,12 +443,8 @@ hr {
     }
 
     .img{
-        position: absolute;
-  width: 383px;
-  height: 386px;
-  left: 455px;
-  top: 184px;
-  border-radius: 167px;
+        position:relative;
+  
     }
     .container{
         grid-auto-flow: row;
@@ -456,7 +459,7 @@ hr {
         text-align: center;
     }
     .interest{
-        margin: 10px 0px;
+        margin: 1.0rem 0rem;
     }
     
     .burger{
@@ -474,19 +477,19 @@ hr {
         align-items: center;
     }
     .stuff1{
-        margin-bottom: 10px;
+        margin-bottom: 1.0rem;
         /* overflow: scroll; */
-        border-radius: 10px;
+        border-radius: 1.0rem;
         width:fit-content;
     }
     .sports{
-        margin-bottom: 127px;
+        margin-bottom: 12.7rem;
     }
 
     .container-fluid{
         text-align: center;
         margin: auto;
-        height: 10px;
+        height: 1.0rem;
         display: flex;
         flex-direction: column;
     }
@@ -503,15 +506,15 @@ hr {
     .navbar{
         flex-direction: column;
         transition: 0.3s  ease-out;
-        /* height: 470px; */
+        /* height: 470rem; */
     }
     .h-nav-resp{
-        height: 300px;
+        height: 30.0rem;
 
     }
     .v-class-resp{
         opacity: 0;
-        height: 300px;
+        height: 30.0rem;
     }
     .learning{
         width: 60%;
@@ -520,6 +523,10 @@ hr {
         width: 100%;
     }
 }
+@media only screen and (max-width: 998px){
+    html{
+          font-size: 45%;
+    }}
 @media only screen and (max-width: 331px) 
      {
          body{
