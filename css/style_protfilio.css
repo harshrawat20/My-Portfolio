@@ -86,15 +86,16 @@ html{
     
 }
 .img{
-    border-radius: 100%;
+    border-radius: 25%;
     margin-left: 3.0rem;
     /* border: .2rem solid rgba(255, 255, 255, 0.739); */
     padding:0px;
+    width: 50rem;
     
 }
 .secsection{
     text-align: center;
-    margin: 2.8rem 0rem;
+    margin:auto;
 }
 
 .text-big1 {
@@ -524,11 +525,12 @@ hr {
     html{
           font-size: 45%;
     }}
-@media only screen and (max-width: 331px) 
+@media only screen and (max-width: 291px) 
      {
          html{
-            font-size: 15%;
-            border-image: 0mm;
+            font-size: 13%;
+            height: auto;
+            
          }
      }   
 
