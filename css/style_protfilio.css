@@ -88,8 +88,8 @@ html{
 .img{
     border-radius: 100%;
     margin-left: 3.0rem;
-    border: .2rem solid rgba(255, 255, 255, 0.739);
-    padding: .5rem;
+    /* border: .2rem solid rgba(255, 255, 255, 0.739); */
+    padding:0px;
     
 }
 .secsection{
@@ -528,6 +528,7 @@ hr {
      {
          html{
             font-size: 15%;
+            border-image: 0mm;
          }
      }   
 
