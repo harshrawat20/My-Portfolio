@@ -170,7 +170,7 @@ li{
     text-align: center;
     border-radius: 6px;
     margin-top: 47px;
-    margin-bottom: 5px;
+    margin-bottom: 17px;
     background: linear-gradient(
 150deg
 , #918c8c94 10%, #1d141d11 100%, #ca63ca2f 100%);
@@ -468,10 +468,10 @@ hr {
         align-items: center;
     }
     .stuff1{
-        margin-bottom: 12px;
+        margin-bottom: 10px;
         /* overflow: scroll; */
         border-radius: 10px;
-        width: 60%;
+        width:fit-content;
     }
     .sports{
         margin-bottom: 127px;
