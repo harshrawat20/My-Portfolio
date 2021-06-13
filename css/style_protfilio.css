@@ -102,8 +102,9 @@
     padding-top: 74px;
 }
 .introduction{
-    font-size: 18px;
-    margin-top: 38px;
+    font-size: 23px;
+    font-family: inherit;
+    margin-top: 20px;
     color: rgb(0, 0, 0);
 }
 
